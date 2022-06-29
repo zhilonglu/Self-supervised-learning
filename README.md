@@ -17,5 +17,11 @@ resources related to Self-supervised learning.
 # Contrastive Methods
 
 ## Codes
+* [MoCo: Momentum Contrast for Unsupervised Visual Representation Learning](https://github.com/facebookresearch/moco)
+* [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://github.com/google-research/simclr)
+* [Representation Learning with Contrastive Predictive Coding](https://github.com/Spijkervet/contrastive-predictive-coding)
 
 ## Papers
+  - A theoretical analysis of contrastive unsupervised representation learning
+  - Contrastive learning for image captioning
+  - Contrastive learning of structured world models
