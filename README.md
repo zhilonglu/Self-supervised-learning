@@ -22,6 +22,7 @@ resources related to Self-supervised learning.
 * [MoCo: Momentum Contrast for Unsupervised Visual Representation Learning](https://github.com/facebookresearch/moco)
 * [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://github.com/google-research/simclr)
 * [Representation Learning with Contrastive Predictive Coding](https://github.com/Spijkervet/contrastive-predictive-coding)
+* [Let Invariant Discovery Inspire Graph Contrastive Learning](https://github.com/lsh0520/RGCL)
 
 ## Papers
   - A theoretical analysis of contrastive unsupervised representation learning
